@@ -21,4 +21,8 @@
   <a href="https://www.twitch.tv/ttvbrunoviski" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </div>
 
-![snake gif](https://github.com/brunocosta-dev/brunocosta-dev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunocosta-dev/brunocosta-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunocosta-dev/brunocosta-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunocosta-dev/brunocosta-dev/output/github-contribution-grid-snake.svg">
+</picture>
