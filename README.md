@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/brunocosta-dev">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=brunocosta-dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunocosta-dev&layout=compact&langs_count=16&theme=merko"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=brunocosta-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunocosta-dev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
