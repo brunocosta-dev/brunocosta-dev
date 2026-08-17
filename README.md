@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou procurando uma colocação no mercado de DEVs ...
 - 🌱 Estudando Engenharia de Software ...
-- 😄 Pronouns: ele/dele
 
 ##
 
